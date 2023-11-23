@@ -36,12 +36,12 @@ Players will also be rewarded with star medals after winning stages to motivate 
   
 ## Snapshots
 
-## Start
+### Start
 <img width="424" alt="Screenshot 2023-11-23 at 3 25 40 AM" src="https://github.com/arj5/pokemon-battle-game/assets/107235667/b25a9f1d-fb3a-4b09-8f74-6dffdf3c7103">
 
-## Win
+### Win
 <img width="545" alt="Screenshot 2023-11-23 at 3 24 53 AM" src="https://github.com/arj5/pokemon-battle-game/assets/107235667/7f0d3152-79df-4171-8bb2-57b5a5b8b0f6">
 
-## Loss
+### Loss
 <img width="561" alt="Screenshot 2023-11-23 at 3 27 05 AM" src="https://github.com/arj5/pokemon-battle-game/assets/107235667/2dcd498b-1d6a-49e5-93ad-73453eb119f8">
 
