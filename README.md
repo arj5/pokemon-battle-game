@@ -1,5 +1,4 @@
-# Pokemon Battle Game
-
+# Pokemon Battle Game 👾
 Pokémon Battle Game is a single-player tournament where the user faces off against the computer in three stages, each consisting of three battles. Players choose one of three Pokémon at the start of each stage, considering type advantages (e.g., fire vs. water) and varying HP. Pokémon can only be used once per stage. Rounds involve decision-making to guide Pokémon to victory, with options affecting HP and energy. The stage concludes when a Pokémon's energy or HP reaches zero, determining the winner.
 
 ## Features
